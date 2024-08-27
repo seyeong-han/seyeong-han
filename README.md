@@ -15,7 +15,8 @@ My previous roles at Nearthlab and SNUAILAB involved building MLOps pipelines, d
 ## 🌟 Projects
 ### memary: Open-source RAG
 - [LlamaIndex Webinar](https://www.youtube.com/watch?v=o0DPxvgML5c&t=166s)
-- [Github](https://github.com/kingjulio8238/Memary)  
+- [Github](https://github.com/kingjulio8238/Memary)
+- [Original Repo](https://github.com/seyeong-han/KnowledgeGraphRAG)  
 As the technical lead, I spearheaded the development of "memary," a personalized Retrieval-Augmented Generation (RAG) model, in collaboration with LlamaIndex. This open-source project, which achieved over 1K stars on GitHub, was designed to enhance memory capabilities in AI by integrating graph storage and RAG techniques.
 
 ### AI-Driven Home Renovation Platform - Resia
