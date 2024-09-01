@@ -28,6 +28,6 @@ At Resia, I led the development of an AI-driven platform that utilizes generativ
 
 - [LinkedIn](https://www.linkedin.com/in/seyeong-han/)
 - [Youtube](https://www.youtube.com/@illuminate_young)
-- [Instagram](https://www.instagram.com/sunbc0120)
+- [Instagram](https://www.instagram.com/illuminate.young/)
 - [Website](illuminateyoung.wordpress.com)
 - Email: h960213@gmail.com
