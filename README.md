@@ -1,5 +1,8 @@
 # Seyeong Han - Machine Learning Engineer
-Welcome to my GitHub! I'm Seyeong Han, currently pursuing my Master's in Engineering Management at the University of Texas at Austin, with a strong background in machine learning, deep learning, and AI-driven solutions. My passion lies in leveraging cutting-edge technology to solve real-world problems, whether it's optimizing AI models for speed and efficiency or developing innovative solutions to address unique challenges.
+Welcome to my GitHub! I'm Seyeong Han, founder of two AI companies and currently pursuing a Master's in Engineering Management at the University of Texas at Austin. With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges. My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
+
+## Mission
+Illuminating the path to reducing technology gaps ensures everyone benefits from technological advancements.
 
 ## 🚀 About Me
 I have over three years of experience as a Machine Learning Engineer, with a track record of developing and deploying AI solutions across various industries. As the CTO and Co-founder of Resia, an AI-driven home renovation platform, I successfully integrated AWS services to enhance scalability and security, securing $8,500 in funding to accelerate our vision.
@@ -7,7 +10,7 @@ I have over three years of experience as a Machine Learning Engineer, with a tra
 My previous roles at Nearthlab and SNUAILAB involved building MLOps pipelines, developing custom models for wind turbine crack detection, and optimizing AI models to achieve significant performance improvements. I also have a strong foundation in deep learning frameworks like PyTorch, TensorFlow, and NVIDIA’s AI tools, as well as experience in DevOps and cloud services.
 
 ## 🛠️ Skills & Technologies
-- Deep Learning: PyTorch, TensorFlow, NVIDIA Deepstream, TensorRT, HuggingFace, ONNX
+- Deep Learning: PyTorch, TensorFlow, NVIDIA Deepstream, TensorRT, HuggingFace, ONNX, Tensorflow Lite
 - DevOps: AWS (Sagemaker, Bedrock, Amplify), Docker, Jenkins, Airflow, Grafana
 - Programming: Python, CUDA, JavaScript, C++, Java, ReactJS, Vue.js
 - Tools & Libraries: Neo4j, MLFlow, OpenCV, Open-MMLab  
