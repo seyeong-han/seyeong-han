@@ -19,7 +19,7 @@ My previous roles at Nearthlab and SNUAILAB involved building MLOps pipelines, d
 - [Original Repo](https://github.com/seyeong-han/KnowledgeGraphRAG)  
 As the technical lead, I spearheaded the development of "memary," a personalized Retrieval-Augmented Generation (RAG) model, in collaboration with LlamaIndex. This open-source project, which achieved over 1K stars on GitHub, was designed to enhance memory capabilities in AI by integrating graph storage and RAG techniques.
 
-### AI-Driven Home Renovation Platform - Resia
+### AI-Driven Home Renovation Platform - [Resia.design](https://resia.design)
 - [Youtube](https://www.youtube.com/@Resia.design)
 - [Webpage](https://resia.design)  
 At Resia, I led the development of an AI-driven platform that utilizes generative AI to streamline home renovation processes. By integrating AWS services, we enhanced the platform's scalability, securing crucial funding and expanding our reach.
@@ -30,4 +30,4 @@ At Resia, I led the development of an AI-driven platform that utilizes generativ
 - [Youtube](https://www.youtube.com/@illuminate_young)
 - [Instagram](https://www.instagram.com/illuminate.young/)
 - [Website](illuminateyoung.wordpress.com)
-- Email: h960213@gmail.com
+- Email: illuminate.han@gmail.com
