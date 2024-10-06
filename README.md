@@ -1,4 +1,7 @@
 # Seyeong Han - Machine Learning Engineer
+
+My recent full-stack AI Website - [Resia.design](https://resia.design)  
+
 Welcome to my GitHub!  
 I'm Seyeong Han, founder of two AI companies and currently pursuing a Master's in Engineering Management at the University of Texas at Austin.  
 With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges. My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
