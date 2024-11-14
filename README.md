@@ -7,6 +7,9 @@ Welcome to my GitHub!
 I'm Seyeong Han, founder of two AI companies and currently pursuing a Master's in Engineering Management at the University of Texas at Austin.  
 With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges. My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
 
+![Full-Stack Machine Learning Engineer](https://github.com/user-attachments/assets/d874f4e2-e13e-4e26-ac8e-1ec966653552)
+
+
 ## Mission
 Illuminating the path to reducing technology gaps ensures everyone benefits from technological advancements.
 
