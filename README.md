@@ -1,13 +1,17 @@
 # Seyeong Han - Machine Learning Engineer
 
 My recent full-stack AI Website - [Resia.design](https://resia.design)  
+<a href="https://resia.design">
+    <img src="https://github.com/user-attachments/assets/8520fcb1-4764-4cd0-b4c0-750cf51d0692" alt="Resia.design" style="width:50%;"/>
+</a>
+
 [Resume](https://utexas-my.sharepoint.com/:b:/g/personal/sh54839_my_utexas_edu/EX75Pz9RSXNDooEoXNfMP_UBKiU8ne1x40TJJzSuLtnCCA?e=fvGpT7)
 
 Welcome to my GitHub!  
 I'm Seyeong Han, founder of two AI companies and currently pursuing a Master's in Engineering Management at the University of Texas at Austin.  
 With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges. My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
 
-![Full-Stack Machine Learning Engineer](https://github.com/user-attachments/assets/d874f4e2-e13e-4e26-ac8e-1ec966653552)
+![Full-Stack Machine Learning Engineer](https://github.com/user-attachments/assets/7b4da98b-fa80-45de-9619-069f91345da1)
 
 
 ## Mission
