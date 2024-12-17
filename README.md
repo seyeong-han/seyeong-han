@@ -5,7 +5,7 @@
     <img src="https://github.com/user-attachments/assets/8520fcb1-4764-4cd0-b4c0-750cf51d0692" alt="Resia.design" style="width:49%;"/>
 </a>  
 
-### Won Meta x AITX Hackathon - [LinkedIn](https://www.linkedin.com/posts/seyeong-han_hackathon-llamastack-bookmind-activity-7267267389614866432-Bc-r?utm_source=share&utm_medium=member_desktop)  
+### Won Meta x AITX Hackathon - [LinkedIn](https://www.linkedin.com/posts/seyeong-han_hackathon-llamastack-bookmind-activity-7267267389614866432-Bc-r?utm_source=share&utm_medium=member_desktop), [code](https://github.com/seyeong-han/BookMind)  
 <a href="https://youtu.be/DL4-DswxfEM">
     <img src="https://github.com/user-attachments/assets/11c6f1f3-59db-4638-9b1a-68f1d25efec4" alt="Meta Hackathon" style="width:49%;">
 </a>
