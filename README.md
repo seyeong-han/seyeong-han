@@ -12,7 +12,7 @@
 
 ---
 
-[Resume](https://utexas-my.sharepoint.com/:b:/g/personal/sh54839_my_utexas_edu/EX75Pz9RSXNDooEoXNfMP_UBKiU8ne1x40TJJzSuLtnCCA?e=fvGpT7)
+### [Resume](https://1drv.ms/b/s!Al6hwrbEx32GgQEdmkff4GIbzFMx?e=9NYx2X)
 
 Welcome to my GitHub!  
 I'm Seyeong Han, founder of two AI companies and currently pursuing a Master's in Engineering Management at the University of Texas at Austin.  
