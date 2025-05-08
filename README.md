@@ -15,7 +15,8 @@
 ### [Resume](https://1drv.ms/b/s!Al6hwrbEx32GgQEdmkff4GIbzFMx?e=9NYx2X)
 
 Welcome to my GitHub!  
-I'm Seyeong Han, founder of two AI companies and currently pursuing a Master's in Engineering Management at the University of Texas at Austin.  
+I'm Young (Seyeong) Han, founder of two AI companies and a Master's in Engineering Management from the University of Texas at Austin.
+I'm working at Meta in Partner Engineering, Gen AI team to help spread Llama models around the world and run Llama models efficiently on devices.
 With a strong foundation in machine learning, deep learning, and AI-driven solutions, I am passionate about applying cutting-edge technology to solve real-world challenges. My expertise includes deploying AI models for speed and efficiency, as well as developing innovative solutions to tackle unique problems.
 
 ![Full-Stack Machine Learning Engineer](https://github.com/user-attachments/assets/7b4da98b-fa80-45de-9619-069f91345da1)
