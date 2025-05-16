@@ -1,6 +1,6 @@
 # Seyeong Han - Machine Learning Engineer
 
-### My recent full-stack AI Website - [Resia.design](https://resia.design)  
+### Full-stack AI Website - [Resia.design](https://resia.design)  
 <a href="https://resia.design">
     <img src="https://github.com/user-attachments/assets/8520fcb1-4764-4cd0-b4c0-750cf51d0692" alt="Resia.design" style="width:49%;"/>
 </a>  
