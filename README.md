@@ -8,6 +8,22 @@ Previously: co-founder of [Resia](https://resia.design), MLOps + edge ML at Near
 
 ---
 
+## Highlights
+
+### Full-stack AI website — [Resia on YouTube](https://www.youtube.com/@Resia.design)
+
+<a href="https://www.youtube.com/@Resia.design">
+  <img src="https://github.com/user-attachments/assets/8520fcb1-4764-4cd0-b4c0-750cf51d0692" alt="Resia.design — full-stack AI website" width="49%" />
+</a>
+
+### Meta × AITX Hackathon (1st place) — [LinkedIn](https://www.linkedin.com/posts/seyeong-han_hackathon-llamastack-bookmind-activity-7267267389614866432-Bc-r?utm_source=share&utm_medium=member_desktop) · [BookMind code](https://github.com/seyeong-han/BookMind)
+
+<a href="https://youtu.be/DL4-DswxfEM">
+  <img src="https://github.com/user-attachments/assets/11c6f1f3-59db-4638-9b1a-68f1d25efec4" alt="Meta × AITX Hackathon — BookMind demo" width="49%" />
+</a>
+
+---
+
 ## What I ship
 
 **ExecuTorch across MLX, CUDA, Metal, and XNNPACK** — multimodal and speech: LFM2.5 on MLX (**330 tok/s** decode), Voxtral-TTS on MLX and CUDA Ampere+Blackwell (**RTF 0.81**), Gemma 4-E2B, plus **16 model repos** for ASR, TTS, VAD, and text on [younghan-meta/models](https://huggingface.co/younghan-meta/models).
