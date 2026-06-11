@@ -10,7 +10,7 @@ Previously: co-founder of [Resia](https://resia.design), MLOps + edge ML at Near
 
 ## Highlights
 
-### Full-stack AI website — [Resia on YouTube](https://www.youtube.com/@Resia.design)
+### CoFounder - Full-stack AI website — [Resia on YouTube](https://www.youtube.com/@Resia.design)
 
 <a href="https://www.youtube.com/@Resia.design">
   <img src="https://github.com/user-attachments/assets/8520fcb1-4764-4cd0-b4c0-750cf51d0692" alt="Resia.design — full-stack AI website" width="49%" />
