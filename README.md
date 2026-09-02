@@ -2,7 +2,7 @@
 
 Partner Engineer, Generative AI at **Meta**. I ship **ExecuTorch** workloads on Apple Silicon, NVIDIA, and edge devices—voice agents, tool-using local assistants, and multimodal inference—and publish runnable artifacts on [Hugging Face](https://huggingface.co/younghan-meta/models).
 
-Previously: co-founder of [Resia](https://resia.design), MLOps + edge ML at Nearthlab, Triton/TensorRT at SNUAILAB. Technical lead of [`memary`](https://github.com/kingjulio8238/Memary) (2.5K★). **1st place**, Meta × AITX Hackathon 2024 ([BookMind](https://github.com/seyeong-han/BookMind)).
+Previously: [Resia](https://resia.design), MLOps + edge ML at Nearthlab, Triton/TensorRT at SNUAILAB. Technical lead of [`memary`](https://github.com/kingjulio8238/Memary) (2.5K★). **1st place**, Meta × AITX Hackathon 2024 ([BookMind](https://github.com/seyeong-han/BookMind)).
 
 > Illuminate the path to reducing technology gaps so everyone benefits from technological advancement.
 
@@ -10,7 +10,7 @@ Previously: co-founder of [Resia](https://resia.design), MLOps + edge ML at Near
 
 ## Highlights
 
-### CoFounder - Full-stack AI website — [Resia on YouTube](https://www.youtube.com/@Resia.design)
+### Full-stack AI website — [Resia on YouTube](https://www.youtube.com/@Resia.design)
 
 <a href="https://www.youtube.com/@Resia.design">
   <img src="https://github.com/user-attachments/assets/8520fcb1-4764-4cd0-b4c0-750cf51d0692" alt="Resia.design — full-stack AI website" width="49%" />
